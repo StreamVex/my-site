@@ -1,0 +1,20 @@
+body { background: #0c0d12; color: white; font-family: sans-serif; margin: 0; }
+.container { display: flex; flex-direction: row-reverse; min-height: 100vh; }
+
+.sidebar { width: 300px; background: #161b22; padding: 20px; border-left: 1px solid #30363d; }
+.sidebar-title { font-size: 1.2rem; color: #8b949e; margin-bottom: 20px; }
+.btn { display: flex; align-items: center; gap: 15px; width: 100%; padding: 15px; margin: 8px 0; background: #21262d; border: none; color: white; cursor: pointer; border-radius: 8px; font-weight: bold; }
+.btn:hover { background: #30363d; }
+.icon { width: 20px; height: 20px; }
+
+.main-content { flex-grow: 1; padding: 40px; }
+.main-title { font-size: 2rem; margin-bottom: 10px; }
+.subtitle { color: #8b949e; margin-bottom: 30px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 20px; }
+
+.card { background: #161b22; padding: 20px; border-radius: 12px; text-align: center; border: 1px solid #30363d; }
+.card img { width: 100px; height: 100px; border-radius: 50%; margin-bottom: 15px; border: 2px solid #58a6ff; }
+.btn-link { display: block; margin-top: 15px; color: #3fb950; text-decoration: none; font-weight: bold; border: 1px solid #3fb950; padding: 8px; border-radius: 6px; }
+.mission-box { margin-top: 40px; padding: 20px; background: #1d2129; border-radius: 10px; color: #8b949e; font-size: 0.9rem; }
+.btn-kick { background: #00e701 !important; color: black !important; }
+.btn-discord { background: #5865f2 !important; }
