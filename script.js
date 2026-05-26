@@ -18,7 +18,7 @@ const data = {
         { name: "أحمد الشهري (شووغل)", img: "https://i.ibb.co/G48HvXFH/2026-05-26-140938.png", link: "https://www.tiktok.com/@in77e" }
     ],
     discord: [
-        { name: "سيرفر StreamVex", img: "https://cdn-icons-png.flaticon.com/512/5968/5968756.png", link: "https://discord.gg/HEc4VxBAdS" }
+        { name: "سيرفر StreamVex", img: "https://i.ibb.co/yKpJcmG/04647954-3872-43ca-9bd3-37219efa9f11.png", link: "https://discord.gg/HEc4VxBAdS" }
     ]
 };
 
